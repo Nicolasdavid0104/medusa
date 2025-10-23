@@ -1,1 +1,1 @@
-# medusa
+nesses ataques utilizei medusa para fazer diversos ataques brute force em serviços web, e em um ambieente corporativo mal configurado siga as imagens para ver os scripts utilizados e os sucessos da invasão.
